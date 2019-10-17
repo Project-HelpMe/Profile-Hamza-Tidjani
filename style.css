@@ -1,0 +1,39 @@
+/* colors and fonts */
+
+
+body{
+	background: grey;
+	color:;
+	font-family:Lora;
+	font-size:20px;
+}
+
+h1, h2, h3 {
+	font-family:Roboto;
+	font-weight: lighter;
+}
+
+h1{
+	color:yellow;
+	font-size:55px;
+}
+h2{
+	color:yellow;
+	font-size:28px;
+}
+p{
+	color: red;
+	font-size: 20px;
+}
+
+a{
+	text-decoration: none;
+	color:blue;
+}
+
+a:hover {
+	color:blue;
+	font-family:Roboto;
+}
+
+
